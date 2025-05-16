@@ -1,0 +1,134 @@
+{
+  "rice": {
+    "description": "A staple food crop that thrives in warm, humid environments with abundant water.",
+    "growing_period": "3-6 months",
+    "water_needs": "High",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "maize": {
+    "description": "A versatile grain crop that grows well in moderate temperatures with adequate rainfall.",
+    "growing_period": "3-5 months",
+    "water_needs": "Moderate",
+    "optimal_temp": "18-32\u00b0C"
+  },
+  "chickpea": {
+    "description": "A legume crop that fixes nitrogen in soil and grows well in drier conditions.",
+    "growing_period": "3-4 months",
+    "water_needs": "Low to Moderate",
+    "optimal_temp": "15-30\u00b0C"
+  },
+  "kidneybeans": {
+    "description": "A legume that enriches soil and provides protein-rich beans.",
+    "growing_period": "3-4 months",
+    "water_needs": "Moderate",
+    "optimal_temp": "18-30\u00b0C"
+  },
+  "pigeonpeas": {
+    "description": "A drought-resistant legume that improves soil fertility.",
+    "growing_period": "4-8 months",
+    "water_needs": "Low",
+    "optimal_temp": "18-30\u00b0C"
+  },
+  "mothbeans": {
+    "description": "A drought-tolerant legume suitable for arid and semi-arid regions.",
+    "growing_period": "2-3 months",
+    "water_needs": "Low",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "mungbean": {
+    "description": "A fast-growing legume crop that requires minimal water.",
+    "growing_period": "2-3 months",
+    "water_needs": "Low to Moderate",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "blackgram": {
+    "description": "A legume crop that grows well in warm, humid conditions.",
+    "growing_period": "2-3 months",
+    "water_needs": "Moderate",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "lentil": {
+    "description": "A cool-season legume crop rich in protein.",
+    "growing_period": "3-4 months",
+    "water_needs": "Low to Moderate",
+    "optimal_temp": "15-25\u00b0C"
+  },
+  "pomegranate": {
+    "description": "A fruit-bearing shrub that thrives in hot, dry climates.",
+    "growing_period": "Perennial (3-5 years to full production)",
+    "water_needs": "Moderate",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "banana": {
+    "description": "A tropical fruit crop requiring warm temperatures and plenty of moisture.",
+    "growing_period": "9-12 months",
+    "water_needs": "High",
+    "optimal_temp": "25-35\u00b0C"
+  },
+  "mango": {
+    "description": "A tropical fruit tree that needs warm climate with a distinct dry season.",
+    "growing_period": "Perennial (3-5 years to first harvest)",
+    "water_needs": "Moderate",
+    "optimal_temp": "24-30\u00b0C"
+  },
+  "grapes": {
+    "description": "A woody vine that produces berries, thrives in temperate climate.",
+    "growing_period": "Perennial (2-3 years to production)",
+    "water_needs": "Moderate",
+    "optimal_temp": "15-25\u00b0C"
+  },
+  "watermelon": {
+    "description": "A warm-season fruit crop that requires hot, sunny conditions.",
+    "growing_period": "3-4 months",
+    "water_needs": "Moderate to High",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "muskmelon": {
+    "description": "A fruit crop that grows best in warm, sunny conditions with well-drained soil.",
+    "growing_period": "3-4 months",
+    "water_needs": "Moderate",
+    "optimal_temp": "20-35\u00b0C"
+  },
+  "apple": {
+    "description": "A deciduous tree that needs cooler temperatures and winter dormancy.",
+    "growing_period": "Perennial (3-5 years to production)",
+    "water_needs": "Moderate",
+    "optimal_temp": "10-25\u00b0C"
+  },
+  "orange": {
+    "description": "A citrus tree that thrives in warm, sunny conditions.",
+    "growing_period": "Perennial (3-5 years to production)",
+    "water_needs": "Moderate",
+    "optimal_temp": "15-30\u00b0C"
+  },
+  "papaya": {
+    "description": "A fast-growing tropical fruit tree that needs warm temperatures.",
+    "growing_period": "9-12 months",
+    "water_needs": "Moderate to High",
+    "optimal_temp": "22-35\u00b0C"
+  },
+  "coconut": {
+    "description": "A tropical palm that grows best in coastal areas with high humidity.",
+    "growing_period": "Perennial (6-8 years to production)",
+    "water_needs": "High",
+    "optimal_temp": "25-35\u00b0C"
+  },
+  "cotton": {
+    "description": "A fiber crop that requires long, hot summers and moderate rainfall.",
+    "growing_period": "5-6 months",
+    "water_needs": "Moderate",
+    "optimal_temp": "20-30\u00b0C"
+  },
+  "jute": {
+    "description": "A fiber crop that grows well in hot, humid conditions.",
+    "growing_period": "3-4 months",
+    "water_needs": "High",
+    "optimal_temp": "25-35\u00b0C"
+  },
+  "coffee": {
+    "description": "A tropical perennial crop that prefers shade and cooler temperatures.",
+    "growing_period": "Perennial (3-4 years to production)",
+    "water_needs": "Moderate",
+    "optimal_temp": "15-25\u00b0C"
+  }
+}
